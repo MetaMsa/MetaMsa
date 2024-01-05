@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on C++
+- 🔭 I’m currently working on C++/Python/C#
 - 🌱 I’m currently learning HTML/CSS/JS
-- 💬 Ask me about C++
+- 💬 Ask me about C++/Python/C#
 - 📫 How to reach me: mserhataslan@hotmail.com 
 - 😄 Pronouns: He
 
