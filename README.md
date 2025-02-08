@@ -55,21 +55,25 @@
 ---
 
 <h2>👨‍💻Kullandığım Dil ve Teknolojiler</h2>
-<p align="left" style="background-color: yellow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualstudio/visualstudio-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain.svg" height="45" width="45">
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bootstrap/bootstrap-original.svg" height="45" width="45">
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-plain.svg" height="45" width="45">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg" alt="python" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-line.svg" alt="python" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original-wordmark.svg" height="45" width="45">
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original-wordmark.svg" height="45" width="45">
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" height="45" width="45">
-</p>
+<table>
+  <tr>
+    <td style="background-color: yellow; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualstudio/visualstudio-original.svg" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain.svg" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain.svg" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-plain.svg" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-line.svg" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original-wordmark.svg" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
+    </td>
+  </tr>
+</table>
