@@ -67,12 +67,12 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain.svg" width="45" height="45"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain.svg" width="45" height="45"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-plain.svg" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" width="45" height="45"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="45" height="45"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-line.svg" width="45" height="45"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original-wordmark.svg" width="45" height="45"/>
+      <img src="./assets/express-js1720895488.logowik.com.webp" width="45" height="45"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
     </td>
   </tr>
