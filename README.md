@@ -1,14 +1,76 @@
-<p align="center">
- ### Hi there 👋<br>
-- 🔭 I’m currently working on C++/Python/C#<br>
-- 🌱 I’m currently learning HTML/CSS/JS<br>
-- 💬 Ask me about C++/Python/C#<br>
-- 📫 How to reach me: mserhataslan@hotmail.com<br> 
-- 😄 Pronouns: He<br> 
+<p>
+    <img
+        src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Mehmet%20Serhat-nl-ASLAN&animation=twinkling&reversal=false&section=header&textBg=false&fontAlign=50&fontSize=50&fontColor=F"></img>
 </p>
 
- <p align="center"><a href="https://www.linkedin.com/in/mehmet-serhat-aslan-58272b28a"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt=""/><br></a>
- <a href="https://benserhat.live"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Website_icon.svg" alt="" /><br><a/> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MetaMsa&show_icons=true&locale=en&layout=compact" alt=""/><br>
- <img src="https://github-readme-stats.vercel.app/api?username=MetaMsa&show_icons=true&locale=en" alt=""/><br>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=MetaMsa" alt=""/><br></p>
+<h1 align="center">
+    LİNKLER
+</h1>
+
+<p align="center">
+    <a href="https://benserhat.live/">
+        <img height="50"
+            src="./assets/1873909_world_social media_earth_website_world wide web_icon.svg">
+    </a>
+    <a href="https://www.linkedin.com/in/mehmet-serhat-aslan-58272b28a/">
+        <img height="50" src="./assets/1727490_linkedin_social media_job_network_icon.svg">
+    </a>
+    <a href="https://www.youtube.com/@metamsa">
+        <img height="50" src="./assets/1543314_network_youtube_social media_icon.svg">
+    </a>
+    <a href="https://github.com/MetaMsa">
+        <img height="50" src="./assets/1872635_social media_software_github_open source_developer_icon.svg">
+    </a>
+    <a href="mailto:mserhataslan@hotmail.com">
+        <img height="50" src="./assets/5066047_communication_email_envelope_letter_mail_icon.svg">
+    </a>
+</p>
+
+---
+
+<h2 align="center">HAKKIMDA</h2>
+
+```javascript
+{
+    "ad": "Mehmet Serhat ASLAN",
+    "şehir": ["Afyon", "Kocaeli"],
+    "meslek": [
+        "ASP.NET Intern Developer",
+        "Student"
+    ],
+    "eğitim": [
+        {
+            "lise": "Afyonkarahisar Osmangazi Anadolu Lisesi"
+        },
+        {
+            "üniversite": "Kocaeli Üniversitesi Kocaeli Meslek Yüksekokulu Bilgisayar Programcılığı"
+        },
+        {
+            "üniversite": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Fakültesi Web Tasarımı ve Kodlama"
+        }
+    ]
+}
+```
+
+---
+
+<h2>👨‍💻 Kullandığım Dil ve Teknolojiler</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualstudio/visualstudio-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain.svg" height="45" width="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bootstrap/bootstrap-original.svg" height="45" width="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-plain.svg" height="45" width="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg" alt="python" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-line.svg" alt="python" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original-wordmark.svg" height="45" width="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original-wordmark.svg" height="45" width="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" height="45" width="45">
+
+</p>
