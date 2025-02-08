@@ -35,8 +35,8 @@
     "ad": "Mehmet Serhat ASLAN",
     "şehir": ["Afyon", "Kocaeli"],
     "meslek": [
-        "ASP.NET Intern Developer",
-        "Student"
+        "ASP.NET Stajyer Geliştirici",
+        "Öğrenci"
     ],
     "eğitim": [
         {
