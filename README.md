@@ -77,3 +77,8 @@
     </td>
   </tr>
 </table>
+
+<p>
+    <img
+        src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"></img>
+</p>
