@@ -57,7 +57,7 @@
 <h2>👨‍💻Kullandığım Dil ve Teknolojiler</h2>
 <table>
   <tr>
-    <td style="background-color: yellow; padding: 10px;">
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualstudio/visualstudio-original.svg" width="45" height="45"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
