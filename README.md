@@ -28,7 +28,7 @@
 
 ---
 
-<h2 align="center">HAKKIMDA</h2>
+<h2 align="center">💁HAKKIMDA</h2>
 
 ```javascript
 {
@@ -54,8 +54,8 @@
 
 ---
 
-<h2>👨‍💻 Kullandığım Dil ve Teknolojiler</h2>
-<p align="left">
+<h2>👨‍💻Kullandığım Dil ve Teknolojiler</h2>
+<p align="left" style="background-color: yellow">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualstudio/visualstudio-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
@@ -72,5 +72,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original-wordmark.svg" height="45" width="45">
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original-wordmark.svg" height="45" width="45">
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" height="45" width="45">
-
 </p>
