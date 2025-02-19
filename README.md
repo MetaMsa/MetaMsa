@@ -79,9 +79,9 @@
 </table>
 
 <p align="center">
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=metamsa&layout=donut-vertical&langs_count=20&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metamsa&layout=donut-vertical&langs_count=20&theme=dark" alt="Anurag's GitHub stats-Dark">
+    </a>
 </p>
 
 <p>
