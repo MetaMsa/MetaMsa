@@ -78,12 +78,10 @@
   </tr>
 </table>
 
-<p>
-<center>
+<p align="center">
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=metamsa&layout=donut-vertical&langs_count=20&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-</center>
 </p>
 
 <p>
