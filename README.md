@@ -22,7 +22,7 @@
         <img height="50" src="./assets/1872635_social media_software_github_open source_developer_icon.svg">
     </a>
     <a href="mailto:mserhataslan@hotmail.com">
-        <img height="50" src="./assets/5066047_communication_email_envelope_letter_mail_icon.svg">
+        <img height="50" width="150" src="./assets/5066047_communication_email_envelope_letter_mail_icon.svg">
     </a>
 </p>
 
