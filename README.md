@@ -10,19 +10,19 @@
 <p align="center">
     <a href="https://benserhat.live/">
         <img height="50" width="100"
-            src="./assets/1873909_world_social media_earth_website_world wide web_icon.svg" />
+            src="./assets/1873909_world_social media_earth_website_world wide web_icon.svg" >
     </a>
     <a href="https://www.linkedin.com/in/mehmet-serhat-aslan-58272b28a/">
-        <img height="50" width="100" src="./assets/1727490_linkedin_social media_job_network_icon.svg" />
+        <img height="50" width="100" src="./assets/1727490_linkedin_social media_job_network_icon.svg" >
     </a>
     <a href="https://www.youtube.com/@metamsa">
-        <img height="50" width="100" src="./assets/1543314_network_youtube_social media_icon.svg" />
+        <img height="50" width="100" src="./assets/1543314_network_youtube_social media_icon.svg" >
     </a>
     <a href="https://github.com/MetaMsa">
-        <img height="50" width="100" src="./assets/1872635_social media_software_github_open source_developer_icon.svg" />
+        <img height="50" width="100" src="./assets/1872635_social media_software_github_open source_developer_icon.svg" >
     </a>
     <a href="mailto:mserhataslan@hotmail.com">
-        <img height="50" width="100" src="./assets/5066047_communication_email_envelope_letter_mail_icon.svg" />
+        <img height="50" width="100" src="./assets/5066047_communication_email_envelope_letter_mail_icon.svg" >
     </a>
 </p>
 
