@@ -74,6 +74,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
       <img src="./assets/express-js1720895488.logowik.com.webp" width="45" height="45"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="45" height="45"/>
     </td>
   </tr>
 </table>
