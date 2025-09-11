@@ -1,6 +1,6 @@
 <p>
     <img
-        src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Mehmet%20Serhat-nl-ASLAN&animation=twinkling&reversal=false%C2%A7ion=header&textBg=false&fontAlign=50&fontSize=40&fontColor=ffffff"></img>
+        src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Mehmet%20Serhat-nl-ASLAN&animation=twinkling&reversal=false%C2%A7ion=header&textBg=false&fontAlign=50&fontSize=40&fontColor=ffffff"></img>
 </p>
 
 <h1 align="center">
