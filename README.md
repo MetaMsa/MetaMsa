@@ -55,8 +55,8 @@
 ---
 
 <h2 align="center">👨‍💻Kullandığım Dil ve Teknolojiler</h2>
-<table>
-  <tr align="center">
+<table align="center">
+  <tr>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>
