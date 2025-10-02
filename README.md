@@ -54,7 +54,7 @@
 
 ---
 
-<h2>👨‍💻Kullandığım Dil ve Teknolojiler</h2>
+<h2 align="center">👨‍💻Kullandığım Dil ve Teknolojiler</h2>
 <table>
   <tr>
     <td>
