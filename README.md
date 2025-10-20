@@ -25,7 +25,7 @@
         <img height="50" width="100" src="./assets/5066047_communication_email_envelope_letter_mail_icon.svg" >
     </a>
     <a href="https://mehmetserhataslan.link/">
-        <img height="50" width="100" src="./assets/Gravatar-default-logo.jpg" >
+        <img height="50" width="100" src="./assets/4691578_gravatar_icon.svg" >
     </a>
 </p>
 
