@@ -24,6 +24,9 @@
     <a href="mailto:mserhataslan@hotmail.com">
         <img height="50" width="100" src="./assets/5066047_communication_email_envelope_letter_mail_icon.svg" >
     </a>
+    <a href="https://mehmetserhataslan.link/">
+        <img height="50" width="100" src="./Gravatar-default-logo.jpg" >
+    </a>
 </p>
 
 ---
