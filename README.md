@@ -37,9 +37,9 @@
 {
     "ad": "Mehmet Serhat ASLAN",
     "şehir": ["Afyon", "Kocaeli"],
-    "meslek": [
+    "deneyim": [
         "ASP.NET Stajyer Geliştirici",
-        "Öğrenci"
+        "Next.Js - React Frontend Geliştirici"
     ],
     "eğitim": [
         {
