@@ -78,7 +78,7 @@
 </table>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metamsa&layout=donut-vertical&langs_count=20&theme=dark" alt="Pranesh's GitHub stats-Dark">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=metamsa&layout=donut-vertical&langs_count=20&theme=dark" alt="Pranesh's GitHub stats-Dark">
 </p>
 
 <p>
