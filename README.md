@@ -28,6 +28,7 @@
         <img height="50" width="100" src="./assets/4691578_gravatar_icon.svg" >
     </a>
 </p>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="benserhat" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 ---
 
