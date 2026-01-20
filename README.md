@@ -28,7 +28,11 @@
         <img height="50" width="100" src="./assets/4691578_gravatar_icon.svg" >
     </a>
 </p>
-<a align="center" href="https://www.buymeacoffee.com/benserhat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+<p align="center">
+    <a align="center" href="https://www.buymeacoffee.com/benserhat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px            !important;width: 217px !important;" >
+    </a>
+</p>
 
 ---
 
