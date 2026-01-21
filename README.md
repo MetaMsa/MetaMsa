@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://benserhat.live/">
+    <a href="https://benserhat.com/">
         <img height="50" width="100"
             src="./assets/1873909_world_social media_earth_website_world wide web_icon.svg" >
     </a>
