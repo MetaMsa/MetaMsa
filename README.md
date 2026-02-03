@@ -41,7 +41,7 @@
 ```javascript
 {
     "ad": "Mehmet Serhat ASLAN",
-    "şehir": ["Afyon", "Kocaeli"],
+    "şehir": ["Afyonkarahisar", "Kocaeli"],
     "deneyim": [
         "ASP.NET Stajyer Geliştirici",
         "Next.Js - React Frontend Geliştirici"
