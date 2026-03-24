@@ -41,7 +41,7 @@
 ```javascript
 {
     "ad": "Mehmet Serhat ASLAN",
-    "şehir": ["Afyonkarahisar"],
+    "şehir": "Afyonkarahisar",
     "deneyim": [
         "TrTek Medical Software",
         "ArcCorp"
