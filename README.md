@@ -43,8 +43,8 @@
     "ad": "Mehmet Serhat ASLAN",
     "şehir": ["Afyonkarahisar", "Kocaeli"],
     "deneyim": [
-        "ASP.NET Stajyer Geliştirici",
-        "Next.Js - React Frontend Geliştirici"
+        "TrTek Medical Software",
+        "ArcCorp"
     ],
     "eğitim": [
         {
