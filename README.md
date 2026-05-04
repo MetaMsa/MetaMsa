@@ -63,7 +63,7 @@
 ---
 
 <h2 align="center">👨‍💻Kullandığım Dil ve Teknolojiler</h2>
-<table>
+<table style="display: flex">
   <tr>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
