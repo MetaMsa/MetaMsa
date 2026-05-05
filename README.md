@@ -63,7 +63,7 @@
 ---
 
 <h2 align="center">👨‍💻Kullandığım Dil ve Teknolojiler</h2>
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" width="40" height="40"/>
