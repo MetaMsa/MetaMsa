@@ -63,9 +63,7 @@
 ---
 
 <h2 align="center">👨‍💻Kullandığım Dil ve Teknolojiler</h2>
-<table align="center">
-  <tr>
-    <td>
+<div style="display: flex" align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" width="40" height="40"/>
@@ -75,9 +73,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
-    </td>
-  </tr>
-</table>
+</div>
 
 <p align="center">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=metamsa&layout=compact&langs_count=20&theme=dark" alt="GitHub stats-Dark">
