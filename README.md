@@ -3,32 +3,6 @@
         src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Mehmet%20Serhat-nl-ASLAN&animation=twinkling&reversal=false%C2%A7ion=header&textBg=false&fontAlign=50&fontSize=40&fontColor=ffffff"></img>
 </p>
 
-<h1 align="center">
-    LİNKLER
-</h1>
-
-<p align="center">
-    <a href="https://benserhat.com/">
-        <img height="50" width="100"
-            src="./assets/1873909_world_social media_earth_website_world wide web_icon.svg" >
-    </a>
-    <a href="https://www.linkedin.com/in/mehmet-serhat-aslan-58272b28a/">
-        <img height="50" width="100" src="./assets/1727490_linkedin_social media_job_network_icon.svg" >
-    </a>
-    <a href="https://www.youtube.com/@metamsa">
-        <img height="50" width="100" src="./assets/1543314_network_youtube_social media_icon.svg" >
-    </a>
-    <a href="https://github.com/MetaMsa">
-        <img height="50" width="100" src="./assets/1872635_social media_software_github_open source_developer_icon.svg" >
-    </a>
-    <a href="mailto:mserhataslan@hotmail.com">
-        <img height="50" width="100" src="./assets/5066047_communication_email_envelope_letter_mail_icon.svg" >
-    </a>
-    <a href="https://mehmetserhataslan.link/">
-        <img height="50" width="100" src="./assets/4691578_gravatar_icon.svg" >
-    </a>
-</p>
-
 <p align="center">
     <a align="center" href="https://www.buymeacoffee.com/benserhat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px            !important;width: 217px !important;" >
     </a>
@@ -62,4 +36,30 @@
 <p>
     <img
         src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"></img>
+</p>
+
+<h1 align="center">
+    LİNKLER
+</h1>
+
+<p align="center">
+    <a href="https://benserhat.com/">
+        <img height="50" width="100"
+            src="./assets/1873909_world_social media_earth_website_world wide web_icon.svg" >
+    </a>
+    <a href="https://www.linkedin.com/in/mehmet-serhat-aslan-58272b28a/">
+        <img height="50" width="100" src="./assets/1727490_linkedin_social media_job_network_icon.svg" >
+    </a>
+    <a href="https://www.youtube.com/@metamsa">
+        <img height="50" width="100" src="./assets/1543314_network_youtube_social media_icon.svg" >
+    </a>
+    <a href="https://github.com/MetaMsa">
+        <img height="50" width="100" src="./assets/1872635_social media_software_github_open source_developer_icon.svg" >
+    </a>
+    <a href="mailto:mserhataslan@hotmail.com">
+        <img height="50" width="100" src="./assets/5066047_communication_email_envelope_letter_mail_icon.svg" >
+    </a>
+    <a href="https://mehmetserhataslan.link/">
+        <img height="50" width="100" src="./assets/4691578_gravatar_icon.svg" >
+    </a>
 </p>
