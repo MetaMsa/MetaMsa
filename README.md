@@ -3,11 +3,6 @@
         src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Mehmet%20Serhat-nl-ASLAN&animation=twinkling&reversal=false%C2%A7ion=header&textBg=false&fontAlign=50&fontSize=40&fontColor=ffffff"></img>
 </p>
 
-<p align="center">
-    <a align="center" href="https://www.buymeacoffee.com/benserhat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px            !important;width: 217px !important;" >
-    </a>
-</p>
-
 ---
 
 <h2 align="center">💁HAKKIMDA</h2>
@@ -41,6 +36,11 @@
 <h1 align="center">
     LİNKLER
 </h1>
+
+<p align="center">
+    <a align="center" href="https://www.buymeacoffee.com/benserhat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px            !important;width: 217px !important;" >
+    </a>
+</p>
 
 <p align="center">
     <a href="https://benserhat.com/">
