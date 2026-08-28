@@ -28,11 +28,6 @@
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=metamsa&layout=compact&langs_count=20&theme=dark" alt="GitHub stats-Dark">
 </p>
 
-<p>
-    <img
-        src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"></img>
-</p>
-
 <h1 align="center">
     LİNKLER
 </h1>
@@ -62,4 +57,9 @@
     <a href="https://mehmetserhataslan.link/">
         <img height="50" width="100" src="./assets/4691578_gravatar_icon.svg" >
     </a>
+</p>
+
+<p>
+    <img
+        src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"></img>
 </p>
